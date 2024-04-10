@@ -1,0 +1,13 @@
+{
+  "shell_port": 44197,
+  "iopub_port": 33475,
+  "stdin_port": 39059,
+  "control_port": 44701,
+  "hb_port": 48055,
+  "ip": "127.0.0.1",
+  "key": "926e7593-a31c298e1152d2dc768838e7",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jupyter/fraudfinder/EDA-final.ipynb"
+}
